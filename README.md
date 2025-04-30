@@ -44,7 +44,7 @@ Before getting started, make sure you have:
    Create a config.json file in the project root with the following structure:
 
    {
-   "apiKey": "YOUR_OPENAI_API_KEY",
+   "apiKey": "Your API key here",
    "model": "gpt-4o-mini"
    }
 
